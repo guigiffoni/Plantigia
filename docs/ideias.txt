@@ -1,0 +1,8 @@
+projeto que junte IoT com desenv. móvel
+pegar os tópicos para inspirar um escopo da NASA
+- colmeia inteligente
+- caixa de remédio inteligente
+- comedouro gato/cachorro
+- party finder
+- bunker inteligente
+- análise planta meteorológico
